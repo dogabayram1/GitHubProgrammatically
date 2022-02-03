@@ -103,6 +103,7 @@
 				C50F7D7927AC6966003D5B5E /* Assets.xcassets */,
 				C50F7D7B27AC6966003D5B5E /* LaunchScreen.storyboard */,
 				C50F7D7E27AC6966003D5B5E /* Info.plist */,
+				C50F7DA027AC74EA003D5B5E /* New Group */,
 			);
 			path = GitHubProgrammatically;
 			sourceTree = "<group>";
@@ -122,6 +123,13 @@
 				C50F7D9327AC6966003D5B5E /* GitHubProgrammaticallyUITestsLaunchTests.swift */,
 			);
 			path = GitHubProgrammaticallyUITests;
+			sourceTree = "<group>";
+		};
+		C50F7DA027AC74EA003D5B5E /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
